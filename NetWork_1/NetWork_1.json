@@ -1,0 +1,180 @@
+{
+  "version": "1.0.0.0",
+  "designWidth": 480,
+  "designHeight": 320,
+  "dataScale": 1.0,
+  "textures": [],
+  "texturesPng": [
+    "/Applications/Cocos Studio.app/Contents/MacOS/EditorDefaultRes/GUI/button.png"
+  ],
+  "nodeTree": {
+    "options": {
+      "$type": "EditorCommon.JsonModel.Component.GUI.RootGUISurrogate, EditorCommon",
+      "visible": true,
+      "frameEvent": null,
+      "name": "Node",
+      "classname": "Node"
+    },
+    "children": [
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.LabelSurrogate, EditorCommon",
+          "text": "Scoket",
+          "x": 69.0,
+          "y": 294.0,
+          "visible": true,
+          "classType": "Label",
+          "width": 61.0,
+          "height": 23.0,
+          "positionPercentX": 0.14375,
+          "positionPercentY": 0.91875,
+          "sizePercentX": 0.189583331,
+          "sizePercentY": 0.071875,
+          "actionTag": 14602964,
+          "tag": 7,
+          "ignoreSize": true,
+          "name": "Label_6",
+          "classname": "Label"
+        },
+        "children": [],
+        "classname": "Label"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.LabelSurrogate, EditorCommon",
+          "text": "Name",
+          "x": 147.0,
+          "y": 244.0,
+          "visible": true,
+          "classType": "Label",
+          "width": 53.0,
+          "height": 23.0,
+          "positionPercentX": 0.30625,
+          "positionPercentY": 0.7625,
+          "sizePercentX": 0.189583331,
+          "sizePercentY": 0.071875,
+          "actionTag": 335743500,
+          "tag": 8,
+          "ignoreSize": true,
+          "name": "Label_7",
+          "classname": "Label"
+        },
+        "children": [],
+        "classname": "Label"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.LabelSurrogate, EditorCommon",
+          "text": "Email",
+          "x": 146.0,
+          "y": 195.0,
+          "visible": true,
+          "classType": "Label",
+          "width": 50.0,
+          "height": 23.0,
+          "positionPercentX": 0.304166675,
+          "positionPercentY": 0.609375,
+          "sizePercentX": 0.189583331,
+          "sizePercentY": 0.071875,
+          "actionTag": 456851963,
+          "tag": 9,
+          "ignoreSize": true,
+          "name": "Label_8",
+          "classname": "Label"
+        },
+        "children": [],
+        "classname": "Label"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.TextFieldSurrogate, EditorCommon",
+          "x": 296.0,
+          "y": 194.0,
+          "touchAble": true,
+          "visible": true,
+          "classType": "TextField",
+          "width": 85.0,
+          "height": 23.0,
+          "positionPercentX": 0.6166667,
+          "positionPercentY": 0.60625,
+          "sizePercentX": 0.177083328,
+          "sizePercentY": 0.071875,
+          "actionTag": 163613094,
+          "tag": 10,
+          "ignoreSize": true,
+          "name": "TextField_9",
+          "classname": "TextField"
+        },
+        "children": [],
+        "classname": "TextField"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.TextFieldSurrogate, EditorCommon",
+          "x": 298.0,
+          "y": 246.0,
+          "touchAble": true,
+          "visible": true,
+          "classType": "TextField",
+          "width": 85.0,
+          "height": 23.0,
+          "positionPercentX": 0.620833337,
+          "positionPercentY": 0.76875,
+          "sizePercentX": 0.177083328,
+          "sizePercentY": 0.071875,
+          "actionTag": 8464158,
+          "tag": 11,
+          "ignoreSize": true,
+          "name": "TextField_10",
+          "classname": "TextField"
+        },
+        "children": [],
+        "classname": "TextField"
+      },
+      {
+        "options": {
+          "$type": "EditorCommon.JsonModel.Component.GUI.ButtonSurrogate, EditorCommon",
+          "normalData": {
+            "resourceType": 0,
+            "path": "GUI/button.png",
+            "plistFile": ""
+          },
+          "pressedData": {
+            "resourceType": 0
+          },
+          "disabledData": {
+            "resourceType": 0
+          },
+          "text": "Login",
+          "capInsetsWidth": 1.0,
+          "capInsetsHeight": 1.0,
+          "scale9Width": 103.0,
+          "scale9Height": 40.0,
+          "x": 88.0,
+          "y": 55.0,
+          "touchAble": true,
+          "visible": true,
+          "classType": "Button",
+          "width": 103.0,
+          "height": 40.0,
+          "positionPercentX": 0.183333337,
+          "positionPercentY": 0.171875,
+          "sizePercentX": 0.214583337,
+          "sizePercentY": 0.125,
+          "actionTag": 562105431,
+          "tag": 12,
+          "ignoreSize": true,
+          "name": "Button_11",
+          "classname": "Button"
+        },
+        "children": [],
+        "classname": "Button"
+      }
+    ],
+    "classname": "Node"
+  },
+  "action": {
+    "speed": 1.0,
+    "timelines": []
+  }
+}
